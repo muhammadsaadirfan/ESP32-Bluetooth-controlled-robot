@@ -143,7 +143,7 @@ void loop() {
   delay(20);  // Delay for stability
 }
 
-
+```
 
 ## 👤 About the Author
 
