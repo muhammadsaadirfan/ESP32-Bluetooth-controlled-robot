@@ -1,10 +1,13 @@
+
 # ESP32-Bluetooth-controlled-robot
----
-
-![alt text](Add a heading.png)
 
 ---
 
+<p align="center">
+  <img src="esp32car.png" alt="Ubuntu 22.04" />
+</p>
+
+---
 
 4 wheel differential drive robot controlled over Bluetooth using ESP32.  
 Supports **Classic Bluetooth (SPP)** for Android terminals and **BLE UART** for cross-platform apps.
@@ -139,3 +142,13 @@ void loop() {
   }
   delay(20);  // Delay for stability
 }
+
+
+
+## 👤 About the Author
+
+**Muhammad Saad**  
+🎓 Mechatronics and Control Engineering Student  
+🏫 University of Engineering and Technology, Lahore  
+📍 Lahore, Pakistan  
+📧 Email: [msaadmceu@gmail.com](mailto:msaadmceu@gmail.com)
